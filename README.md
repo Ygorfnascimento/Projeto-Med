@@ -141,5 +141,5 @@
 <h3 id="autor" align="center">👨🏽‍💻 Autor</h3>
 
 <p align="center">
-  Desenvolvido por <a href="https://www.linkedin.com/in/ygorferreiradonascimentosilva" target="_blank"><strong>Ygor Ferreira</strong></a>
+  Desenvolvido por <a href="https://www.linkedin.com/in/pedro-henrique-369697327/" target="_blank"><strong>Pedro Henrique</strong></a>
 </p>
